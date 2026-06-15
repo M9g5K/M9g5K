@@ -65,6 +65,7 @@ AI 기반 모임 추천 서비스(Aidea)와 여행자-가이드 매칭 플랫폼
 - 담당: Spring AI + OpenAI API 연동, 사용자 취향 분석 알고리즘 개발, 개인화 추천 엔진 구현, AI 성능 모니터링 시스템 구축, 관심사 카테고리 관리 기능 개발
 - 기술: Java · Spring Boot · Spring AI · OpenAI GPT API · Redis
 - 경험: 추천 로직 설계 및 카테고리 기반 추천 구조 개선, AI 서비스 개발 경험
+- 성과: 취미 기반 추천 구조를 카테고리 기반 구조로 개선하여 추천 시스템의 확장성과 유지보수성 향상
 - [![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Younjin9/aidea)
 
 ---
@@ -77,6 +78,7 @@ AI 기반 모임 추천 서비스(Aidea)와 여행자-가이드 매칭 플랫폼
 - 담당: 파일/폴더 CRUD API 개발, 트리 구조 기반 파일 탐색 기능 구현, DB 메타데이터 및 AWS S3 저장 구조 설계
 - 기술: Java · Spring Boot · MySQL · AWS S3
 - 경험: 계층형 파일 시스템 설계 및 확장 가능한 파일 관리 구조 구현
+- 성과: 파일 메타데이터와 실제 파일 저장소를 분리 설계하여 확장 가능한 파일 관리 구조 구축
 - [![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/whdxo/web_ide_project)
 
 ---
@@ -88,6 +90,7 @@ AI 기반 모임 추천 서비스(Aidea)와 여행자-가이드 매칭 플랫폼
 - 담당: 회원가입/로그인, 여행 요청 관리, 프로필 기능 구현, 백엔드 API 개발 및 배포
 - 기술: Java · Spring Boot · PostgreSQL · JWT · Railway
 - 경험: REST API 설계, 데이터 모델링, 인증/인가 기능 구현, 클라우드 배포 및 운영 경험
+- 성과: API 연결 및 인증 오류를 해결하고 Railway 배포를 완료하여 실제 서비스 운영 환경 구축
 - [![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/M9g5k/travelmate)
 
 ---
